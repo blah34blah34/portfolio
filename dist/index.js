@@ -9,5 +9,6 @@ $('.menu').on('click', function () {
         $('body').addClass('menu-open');
     }
 
-isActive = !isActive;
+    isActive = !isActive;
 });
+
